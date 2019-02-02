@@ -74,7 +74,7 @@ yum install figlet
 # About
 clear
 echo "Script Pritunl Auto Install"
-figlet "©THAIVPN.WIN"
+figlet "THAIVPN.WIN"
 echo "-Pritunl"
 echo "-MongoDB"
 echo "-Squid Proxy Port 80,3128,8080"
