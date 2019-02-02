@@ -1,7 +1,5 @@
 #Debian8 64bit
 
-OpenSSH, port : 22, 143
-
 Dropbear, port : 80, 443
 
 Squid3, port : 8080, 3128
