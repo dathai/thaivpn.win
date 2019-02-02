@@ -83,3 +83,5 @@ echo "TimeZone   :  Bangkok"
 echo "Pritunl    :  https://$MYIP"
 echo "Please Copy Code Go To Installer"
 pritunl setup-key
+echo "pritunl default-password"
+sudo pritunl default-password
