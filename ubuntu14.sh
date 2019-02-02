@@ -86,3 +86,5 @@ echo "Pritunl    :  https://$MYIP"
 echo "Login pritunl?"
 echo "copy key"
 pritunl setup-key
+echo "pritunl default-password"
+sudo pritunl default-password
