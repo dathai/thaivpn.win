@@ -1,12 +1,11 @@
-deb http://repo.pritunl.com/stable/apt xenial main
-deb http://repo.mongodb.org/apt/ubuntu xenial/mongodb-org/3.4 multiverse
-deb http://archive.ubuntu.com/ubuntu/ xenial main restricted
-deb http://archive.ubuntu.com/ubuntu/ xenial-updates main restricted
-deb http://archive.ubuntu.com/ubuntu/ xenial universe
-deb http://archive.ubuntu.com/ubuntu/ xenial-updates universe                deb http://archive.ubuntu.com/ubuntu/ xenial multiverse
-deb http://archive.ubuntu.com/ubuntu/ xenial-updates multiverse
-deb http://archive.ubuntu.com/ubuntu/ xenial-backports main restricted universe
-deb http://security.ubuntu.com/ubuntu xenial-security main restricted
-deb http://security.ubuntu.com/ubuntu xenial-security universe
-deb http://security.ubuntu.com/ubuntu xenial-security multiverse
-
+deb http://repo.pritunl.com/stable/apt dists/xenial main
+deb http://repo.mongodb.org/apt/ubuntu dists/xenial/mongodb-org/3.4 multiverse
+deb http://archive.ubuntu.com/ubuntu/ dists/xenial main restricted
+deb http://archive.ubuntu.com/ubuntu/ dists/xenial-updates main restricted
+deb http://archive.ubuntu.com/ubuntu/ dists/xenial universe
+deb http://archive.ubuntu.com/ubuntu/ dists/xenial-updates universe                deb http://archive.ubuntu.com/ubuntu/ dists/xenial multiverse
+deb http://archive.ubuntu.com/ubuntu/ dists/xenial-updates multiverse
+deb http://archive.ubuntu.com/ubuntu/ dists/xenial-backports main restricted universe
+deb http://security.ubuntu.com/ubuntu dists/xenial-security main restricted
+deb http://security.ubuntu.com/ubuntu dists/xenial-security universe
+deb http://security.ubuntu.com/ubuntu dists/xenial-security multiverse
